@@ -1,3 +1,5 @@
+# Getting started
+
 ## Installation
 
 Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/6.x/installation)
