@@ -1,0 +1,14 @@
+@media (max-width: $mobile-max) {
+    #app {
+        width: calc(100% - 10px);
+        margin: 0 5px;
+        padding: 15px;
+    }
+    .container {
+        > section {
+            width: calc(100% - 20px);
+            margin: 0 10px;
+            margin-bottom: 25px;
+        }
+    }
+}

@@ -1,0 +1,16 @@
+//Colors
+$color-primary            : black;
+$color-text               : #515050;
+$color-success            : #54b354;
+$color-fail               : #da3e3e;
+
+//Transitions
+$transition_ease      : cubic-bezier(0.45, 0.33, 0.36, 1);
+$transition_main      : 500ms $transition_ease;
+$transition_main_fast : 300ms $transition_ease;
+
+// Media breakpoints
+$mobile-small : 550px;
+$mobile-max   : 768px;
+$tablet-min   : 769px;
+$tablet-max   : 1000px;

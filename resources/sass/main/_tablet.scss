@@ -1,0 +1,13 @@
+@media (min-width: $tablet-min) and (max-width: $tablet-max) {
+    #app {
+        width: calc(100% - 30px);
+        margin: 0 15px;
+    }
+    .container {
+        > section {
+            width: calc(100% - 20px);
+            margin: 0 10px;
+            margin-bottom: 40px;
+        }
+    }
+}
