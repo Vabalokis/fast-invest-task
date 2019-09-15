@@ -16,6 +16,10 @@ Install all the dependencies using composer
 
     composer install
 
+Install all the dependencies using node package manager
+
+    npm install
+
 Copy the example env file and make the required configuration changes in the .env file
 
     cp .env.example .env
@@ -39,6 +43,7 @@ You can now access the server at http://localhost:8000
     git clone git@github.com:Vabalokis/fast-invest-task.git
     cd fast-invest-task
     composer install
+    npm install
     cp .env.example .env
     php artisan key:generate
     
